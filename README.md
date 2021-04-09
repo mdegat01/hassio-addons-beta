@@ -38,6 +38,21 @@ https://github.com/mdegat01/hassio-addons-beta
 
 ## Add-ons provided by this repository
 
+### &#10003; [Promtail][addon-promtail]
+
+![Latest Version][promtail-version-shield]
+![Supports armhf Architecture][promtail-armhf-shield]
+![Supports armv7 Architecture][promtail-armv7-shield]
+![Supports aarch64 Architecture][promtail-aarch64-shield]
+![Supports amd64 Architecture][promtail-amd64-shield]
+![Supports i386 Architecture][promtail-i386-shield]
+
+Promtail for Home Assistant
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-promtail]
+
+[:books: Promtail add-on documentation][addon-doc-promtail]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -67,6 +82,7 @@ You could also open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Promtail][promtail-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -94,6 +110,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/1.4.0b1
+[addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/1.4.0b1/README.md
+[promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
+[promtail-version-shield]: https://img.shields.io/badge/version-1.4.0b1-orange.svg
+[add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_promtail
+[promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[promtail-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[promtail-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[promtail-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/mdegat01/hassio-addons-beta
