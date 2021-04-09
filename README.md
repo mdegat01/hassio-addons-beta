@@ -1,2 +1,111 @@
-# hassio-addons-beta
-Home Assistant addons in beta state
+# BETA - mdegat01's Home Assistant Add-ons
+
+![Project Stage][project-stage-shield]
+![Maintenance][maintenance-shield]
+[![License][license-shield]](LICENSE.md)
+
+A hopefully useful collection of HA add-ons made by mdegat01.
+
+## WARNING! THIS IS AN BETA REPOSITORY
+
+This Add-ons repository contains beta builds of add-ons. Beta
+builds add-ons are based upon the latest release including pre-releases.
+
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+
+If you are more interested in stable releases of our add-ons:
+
+<https://github.com/mdegat01/hassio-addons>
+
+## Installation
+
+Click this link and follow the provided directions:
+
+[![Open your Home Assistant instance and show the add add-on repository dialog
+with a specific repository URL pre-filled.][add-repo-shield]][add-repo]
+
+Or alternatively, copy this URL and add it as a repository in the add-on store:
+
+```txt
+https://github.com/mdegat01/hassio-addons-beta
+```
+
+## Add-ons provided by this repository
+
+## Releases
+
+Releases are based on [Semantic Versioning][semver], and use the format
+of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+based on the following:
+
+- ``MAJOR``: Incompatible or major changes.
+- ``MINOR``: Backwards-compatible new features and enhancements.
+- ``PATCH``: Backwards-compatible bugfixes and package updates.
+
+The beta add-ons will also have an additional beta marker, unless, the
+stable release is newer, in that case, the stable release is published
+in this channel.
+
+## Support
+
+Got questions?
+
+You have several ways to get them answered:
+
+- The Home Assistant [Community Forum][forum]. Each add-on has a thread, I am
+  [CentralCommand][forum-centralcommand] there.
+- The Home Assistant [Discord Chat Server][discord-ha]. Use the #add-ons channel,
+  I am CentralCommand#0913 there.
+
+You could also open an issue here on GitHub. Note, I use a separate
+GitHub repository for each add-on. Please ensure you are creating the issue
+on the correct GitHub repository matching the add-on.
+
+
+For a general repository issue or add-on ideas [open an issue here][issue]
+
+## License
+
+MIT License
+
+Copyright (c) 2021 mdegat01
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+[add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
+[add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/mdegat01/hassio-addons-beta
+[discord-ha]: https://discord.gg/c5DvZ4e
+[forum-centralcommand]: https://community.home-assistant.io/u/CentralCommand/?u=CentralCommand
+[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
+[forum]: https://community.home-assistant.io?u=CentralCommand
+[mdegat01]: https://github.com/mdegat01
+[issue]: https://github.com/mdegat01/hassio-addons-beta/issues
+[license-shield]: https://img.shields.io/github/license/mdegat01/hassio-addons-beta.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-orange.svg
+[reddit]: https://reddit.com/r/homeassistant
+[semver]: http://semver.org/spec/v2.0.0.html
+[third-party-addons]: https://home-assistant.io/hassio/installing_third_party_addons/
