@@ -38,6 +38,21 @@ https://github.com/mdegat01/hassio-addons-beta
 
 ## Add-ons provided by this repository
 
+### &#10003; [Loki][addon-loki]
+
+![Latest Version][loki-version-shield]
+![Supports armhf Architecture][loki-armhf-shield]
+![Supports armv7 Architecture][loki-armv7-shield]
+![Supports aarch64 Architecture][loki-aarch64-shield]
+![Supports amd64 Architecture][loki-amd64-shield]
+![Supports i386 Architecture][loki-i386-shield]
+
+Loki for Home Assistant
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-loki]
+
+[:books: Loki add-on documentation][addon-doc-loki]
+
 ### &#10003; [Promtail][addon-promtail]
 
 ![Latest Version][promtail-version-shield]
@@ -82,6 +97,7 @@ You could also open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Loki][loki-issue]
 - [Open an issue for the add-on: Promtail][promtail-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -110,6 +126,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-loki]: https://github.com/mdegat01/addon-loki/tree/1.5.0b0
+[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/1.5.0b0/README.md
+[loki-issue]: https://github.com/mdegat01/addon-loki/issues
+[loki-version-shield]: https://img.shields.io/badge/version-1.5.0b0-orange.svg
+[add-addon-loki]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=e9a81774_loki
+[loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[loki-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[loki-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[loki-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/1.4.1b4
 [addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/1.4.1b4/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
