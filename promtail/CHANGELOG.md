@@ -4,6 +4,7 @@
 - Use mapped log level variable @mdegat01 (#37)
 - Wrong character on apparmor variable @mdegat01 (#45)
 - Remove complain mode in apparmor @mdegat01 (#47)
+- Read on some folders (aa) @mdegat01 (#48)
 
 ## 🚀 Enhancements
 
@@ -29,3 +30,4 @@
 - Bump docker/build-push-action from v2.3.0 to v2.4.0 @dependabot (#34)
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#38)
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#39)
+
