@@ -9,7 +9,7 @@ A hopefully useful collection of HA add-ons made by mdegat01.
 ## WARNING! THIS IS AN BETA REPOSITORY
 
 This Add-ons repository contains beta builds of add-ons. Beta
-builds add-ons are based upon the latest release including pre-releases.
+builds of add-ons are based upon the latest release including pre-releases.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -114,7 +114,7 @@ SOFTWARE.
 [addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/1.4.0b1/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
 [promtail-version-shield]: https://img.shields.io/badge/version-1.4.0b1-orange.svg
-[add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_promtail
+[add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=e9a81774_promtail
 [promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [promtail-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
