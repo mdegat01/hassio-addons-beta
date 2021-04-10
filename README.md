@@ -110,10 +110,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/1.4.1b2
-[addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/1.4.1b2/README.md
+[addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/1.4.1b4
+[addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/1.4.1b4/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
-[promtail-version-shield]: https://img.shields.io/badge/version-1.4.1b2-orange.svg
+[promtail-version-shield]: https://img.shields.io/badge/version-1.4.1b4-orange.svg
 [add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=e9a81774_promtail
 [promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
