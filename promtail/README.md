@@ -16,6 +16,23 @@ to every machine that has applications needed to be monitored.
 If you don't want to join the beta channel, you can wait until it becomes the
 stable release in a couple days.
 
+## WARNING! THIS IS A BETA REPOSITORY
+
+This Add-ons repository contains beta builds of add-ons. Beta
+builds of add-ons are based upon the latest release including pre-releases.
+
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+
+If you are more interested in stable releases of these add-ons:
+
+<https://github.com/mdegat01/hassio-addons>
+
 ## About
 
 By default this addon version of Promtail will tail logs from the systemd
@@ -68,7 +85,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-orange.svg
 [contributors]: https://github.com/mdegat01/addon-promtail/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum-centralcommand]: https://community.home-assistant.io/u/CentralCommand/?u=CentralCommand

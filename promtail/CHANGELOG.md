@@ -2,6 +2,7 @@
 ## 🐛 Bug fixes
 
 - Use mapped log level variable @mdegat01 (#37)
+- Wrong character on apparmor variable @mdegat01 (#45)
 
 ## 🚀 Enhancements
 
@@ -15,9 +16,15 @@
 
 - Enable publishing to beta repo @mdegat01 (#42)
 
+## 📚 Documentation
+
+- Update readme template for beta @mdegat01 (#43)
+- Fix small typo in documentation @mdegat01 (#44)
+
 ## ⬆️ Dependency updates
 
 - Support all log levels @mdegat01 (#33)
 - Bump docker/build-push-action from v2.3.0 to v2.4.0 @dependabot (#34)
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#38)
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#39)
+
