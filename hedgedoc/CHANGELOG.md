@@ -1,4 +1,8 @@
 ## What’s changed
+## 🐛 Bug fixes
+
+- Missing proc stat and couple files from aa profile @mdegat01 (#33)
+
 ## 🚀 Enhancements
 
 - Use not is empty instead of exists for UI @mdegat01 (#26)
@@ -21,3 +25,4 @@
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#22)
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#23)
 - Update to nodejs & npm `14.16.1-r1` @mdegat01 (#29)
+
