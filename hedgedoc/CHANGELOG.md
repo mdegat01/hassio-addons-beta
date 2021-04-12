@@ -2,6 +2,7 @@
 ## 🐛 Bug fixes
 
 - Missing proc stat and couple files from aa profile @mdegat01 (#33)
+- Add my.cnf.d and proc loadavg to aa profile @mdegat01 (#34)
 
 ## 🚀 Enhancements
 
