@@ -1,8 +1,12 @@
 ## What’s changed
-## 🚀 Enhancements
+## 🐛 Bug fixes
 
-- Remove access to bin directories @mdegat01 (#58)
+- Temporarily remove custom apparmor profile @mdegat01 (#60)
 
 ## 🧰 Maintenance
 
 - Devcontainer dev @mdegat01 (#57)
+
+## ⬆️ Dependency updates
+
+- Bump actions/cache from v2.1.4 to v2.1.5 @dependabot (#59)
