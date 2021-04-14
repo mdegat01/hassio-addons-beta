@@ -3,6 +3,7 @@
 
 - Missing proc stat and couple files from aa profile @mdegat01 (#33)
 - Add my.cnf.d and proc loadavg to aa profile @mdegat01 (#34)
+- Support amd64 with custom apparmor profile @mdegat01 (#36)
 
 ## 🚀 Enhancements
 
@@ -26,4 +27,6 @@
 - Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 @dependabot (#22)
 - Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 @dependabot (#23)
 - Update to nodejs & npm `14.16.1-r1` @mdegat01 (#29)
+- Bump actions/cache from v2.1.4 to v2.1.5 @dependabot (#35)
+
 
