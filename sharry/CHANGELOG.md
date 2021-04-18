@@ -8,6 +8,7 @@
 ## 🚀 Enhancements
 
 - Add watchdog URL to config @mdegat01 (#6)
+- Silent curl to prevent log noise during auth @mdegat01 (#7)
 
 ## 📚 Documentation
 
@@ -16,3 +17,4 @@ Small tweaks to README to better describe alias feature
 ## ⬆️ Dependency updates
 
 - Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 @dependabot (#2)
+
