@@ -1,8 +1,11 @@
+Launch release! 🎉 🎉 
+
+Seems like its ready to go so enjoy Sharry for Home Assistant!
+
 ## What’s changed
 ## 🐛 Bug fixes
 
-- Using `env_vars` instead of `conf_overrides` @mdegat01 (#3)
-- Use `property` not `name` in run script @mdegat01 (#4)
+- Correctly use `conf_overrides` options not `env_vars` options (#3, #4)
 - Auth command fails on error HTTP status @mdegat01 (#5)
 
 ## 🚀 Enhancements
@@ -14,7 +17,12 @@
 
 Small tweaks to README to better describe alias feature
 
+## 🧰 Maintenance
+
+- Move `curl` call into a script to simplify auth @mdegat01 (#8)
+
 ## ⬆️ Dependency updates
 
 - Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 @dependabot (#2)
+
 
