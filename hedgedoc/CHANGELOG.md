@@ -1,12 +1,10 @@
 ## What’s changed
 ## 🐛 Bug fixes
 
-- AppArmor - add RO access to ca-certificates folder, required for oauth login options @mdegat01 (#41)
-
-## 🚀 Enhancements
-
-- Add some debug logging for seeing final config @mdegat01 (#40, #42 )
+- aa - Remove references to run and etc globals @mdegat01 (#45)
+- Remove reference to `etc_rw` in link statement @mdegat01 (#46)
 
 ## 📚 Documentation
 
-- Remove Loki references in docs @mdegat01 (#39)
+- Missed a closing underscore in docs @mdegat01 (#43)
+- Fix license link in readme @mdegat01 (#44)
