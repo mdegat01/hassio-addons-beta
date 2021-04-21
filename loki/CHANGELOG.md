@@ -2,8 +2,7 @@
 ## 🐛 Bug fixes
 
 - aa - Remove references to run and etc globals @mdegat01 (#57)
-- aa - Improve network access controls @mdegat01 (#60)
-- aa - Allow loki to bind on unix dgram @mdegat01 (#61)
+- aa - Improve network access controls @mdegat01 (#60, #61)
 
 ## 🚀 Enhancements
 
