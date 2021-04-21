@@ -1,13 +1,8 @@
 ## What’s changed
 ## 🐛 Bug fixes
 
-- aa - Remove references to run and etc globals @mdegat01 (#68)
-- aa - Improve network access controls @mdegat01 (#70)
+- aa - no ** in peer filtering for signal directive @mdegat01 (#72)
 
-## 🧰 Maintenance
+## 🚀 Enhancements
 
-- Add workflow to enforce specific labels on PRs @mdegat01 (#69)
-
-## 📚 Documentation
-
-- Fix license link in readme @mdegat01 (#67)
+- Improve signalling rules in apparmor @mdegat01 (#71)
