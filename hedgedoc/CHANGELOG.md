@@ -1,8 +1,7 @@
 ## What’s changed
 ## 🐛 Bug fixes
 
-- aa - Remove references to run and etc globals @mdegat01 (#45)
-- Remove reference to `etc_rw` in link statement @mdegat01 (#46)
+- aa - Remove references to run and etc globals @mdegat01 (#45, #46)
 - aa - Improve network access controls @mdegat01 (#48)
 
 ## 🧰 Maintenance
