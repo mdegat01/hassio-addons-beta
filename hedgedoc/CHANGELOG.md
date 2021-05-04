@@ -35,4 +35,3 @@ Given what this option actually does (see [here](https://developer.mozilla.org/e
 - Bump docker/login-action from v1.8.0 to v1.9.0 @dependabot (#57)
 - Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 @dependabot (#58)
 - Update to HedgeDoc 1.8.0 and remove sequelizerc @mdegat01 (#59)
-
