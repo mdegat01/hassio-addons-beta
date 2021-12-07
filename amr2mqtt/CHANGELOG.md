@@ -1,5 +1,13 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🚨 Breaking changes
 
-- Correct use of dictionary to get protocol @mdegat01 (#40)
+- Change reading multiplier to reading decimals @mdegat01 (#41)
+
+## 🚀 Enhancements
+
+- Change reading multiplier to reading decimals @mdegat01 (#41)
+
+## 📚 Documentation
+
+- Add docs on Home Assistant usage @mdegat01 (#42)
