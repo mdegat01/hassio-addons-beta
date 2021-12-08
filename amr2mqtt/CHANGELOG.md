@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Fix IDM test, must be `is not None` @mdegat01 (#46)
+- Fix `json_attributes_template` for IDM @mdegat01 (#47)
