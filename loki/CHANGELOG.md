@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🚀 Enhancements
 
-- Grant `rwk` access in `/tmp` to files owned by Loki user @mdegat01 (#141)
+- Stop subtracting one from `days_to_keep` @mdegat01 (#142)
