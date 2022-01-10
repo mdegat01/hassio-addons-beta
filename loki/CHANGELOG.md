@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Needs access to ssl cnf file and files in /tmp @mdegat01 (#140)
+- Grant `rwk` access in `/tmp` to files owned by Loki user @mdegat01 (#141)
