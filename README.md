@@ -116,12 +116,12 @@ Sharry for Home Assistant
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
+of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
 based on the following:
 
-- `MAJOR`: Incompatible or major changes.
-- `MINOR`: Backwards-compatible new features and enhancements.
-- `PATCH`: Backwards-compatible bugfixes and package updates.
+- ``MAJOR``: Incompatible or major changes.
+- ``MINOR``: Backwards-compatible new features and enhancements.
+- ``PATCH``: Backwards-compatible bugfixes and package updates.
 
 The beta add-ons will also have an additional beta marker, unless, the
 stable release is newer, in that case, the stable release is published
