@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Fix retention by using compactor @mdegat01 (#139)
+- Needs access to ssl cnf file and files in /tmp @mdegat01 (#140)
