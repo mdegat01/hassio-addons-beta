@@ -116,12 +116,12 @@ Sharry for Home Assistant
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 The beta add-ons will also have an additional beta marker, unless, the
 stable release is newer, in that case, the stable release is published
@@ -154,7 +154,7 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 MIT License
 
-Copyright (c) 2021 mdegat01
+Copyright (c) 2021-2022 Mike Degatano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -234,7 +234,7 @@ SOFTWARE.
 [mdegat01]: https://github.com/mdegat01
 [issue]: https://github.com/mdegat01/hassio-addons-beta/issues
 [license-shield]: https://img.shields.io/github/license/mdegat01/hassio-addons-beta.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-beta-orange.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
