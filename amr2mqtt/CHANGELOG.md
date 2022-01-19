@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🐛 Bug fixes
 
-- Add option for `last_seen` @mdegat01 (#54)
+- Swap `ISO_8601` and `ISO_8601_local` @mdegat01 (#55)
