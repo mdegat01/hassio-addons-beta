@@ -1,10 +1,13 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## 🚀 Enhancements
 
-- Allow access on docker root paths in debian @mdegat01 (#88)
-- Add access to ssl1.1 cnf file @mdegat01 (#87)
+- Update Sharry to `1.10.0` @mdegat01 (#95)
+- Base version into build.yaml @mdegat01 (#97)
+-  🔒 Sign add-on with Codenotary Community Attestation Service (CAS) @mdegat01 (#98)
 
 ## ⬆️ Dependency updates
 
-- Bump openjdk11-jre to `11.0.14_p9-r0` @mdegat01 (#89)
+- Bump mariadb-client and openjdk11-jre @mdegat01 (#94)
+- Bump alpine from 3.15.0 to 3.15.4 in /sharry @dependabot (#93)
+- Bump hassio-addons/base to `11.1.2` @mdegat01 (#96)
