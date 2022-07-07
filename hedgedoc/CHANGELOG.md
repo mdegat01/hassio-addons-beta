@@ -2,4 +2,5 @@
 
 ## 🐛 Bug fixes
 
-- Add s6-rc.d to apparmor and other tweaks @mdegat01 (#139)
+- Add aa access to all etc/s6 @mdegat01 (#140)
+- Remove /etc/s6-rc.d from apparmor @mdegat01 (#141)
