@@ -1,5 +1,5 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🐛 Bug fixes
 
-- Adjust s6 aa permissions for v3 @mdegat01 (#160)
+- Add back ix to /etc/s6 @mdegat01 (#161)
