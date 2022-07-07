@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Add wix access back to s6 folders @mdegat01 (#142)
+- Add uptime and icu access for node @mdegat01 (#143)
