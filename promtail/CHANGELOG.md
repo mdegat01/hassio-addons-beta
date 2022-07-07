@@ -1,6 +1,7 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🐛 Bug fixes
 
-- Update to debian base to 6.0.0 @mdegat01 (#206)
-- Adjust s6 aa permissions for v3 @mdegat01 (#207)
+- Add permissions for tz setup script @mdegat01 (#208)
+- Add rw to /etc/timezone @mdegat01 (#209)
+- Add rw to most of etc for timezone script @mdegat01 (#210)
