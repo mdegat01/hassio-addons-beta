@@ -1,7 +1,5 @@
 ## What’s changed
 
-## 🐛 Bug fixes
+## ⬆️ Dependency updates
 
-- Add permissions for tz setup script @mdegat01 (#208)
-- Add rw to /etc/timezone @mdegat01 (#209)
-- Add rw to most of etc for timezone script @mdegat01 (#210)
+- Bump yq to 4.25.3 @mdegat01 (#211)
