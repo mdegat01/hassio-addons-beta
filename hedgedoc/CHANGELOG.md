@@ -2,5 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Add aa access to all etc/s6 @mdegat01 (#140)
-- Remove /etc/s6-rc.d from apparmor @mdegat01 (#141)
+- Add wix access back to s6 folders @mdegat01 (#142)
