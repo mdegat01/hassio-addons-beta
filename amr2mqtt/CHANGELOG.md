@@ -2,6 +2,7 @@
 
 ## 🐛 Bug fixes
 
+- Accept and ignore positional arguments shutdown @mdegat01 (#77)
 - Fix permissions on options.json @mdegat01 (#71)
 
 ## 🚀 Enhancements
