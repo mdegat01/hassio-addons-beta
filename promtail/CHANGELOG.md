@@ -6,10 +6,10 @@
 
 ## 🚀 Enhancements
 
-- Change arg to env @mdegat01 (#212)
+- Adjust s6 aa permissions for v3 @mdegat01 (#207)
 - Update promtail to 2.6.1 @mdegat01 (#217)
 
 ## ⬆️ Dependency updates
 
-- Bump addon debian base 6.1.1 @mdegat01 (#213)
-- Bump yq to 4.27.3 @mdegat01 (#214)
+- Bump addon debian base 6.1.1 @mdegat01 (#206, #213)
+- Bump yq to 4.27.3 @mdegat01 (#211, #214)
